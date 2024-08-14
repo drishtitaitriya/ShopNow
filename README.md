@@ -5,5 +5,5 @@
  CSS: Styled the website for a responsive and visually appealing user interface.
  JavaScript: Implemented interactive features like form handling and cart management.
 
-Website link: https://drishtitaitriya.github.io/ShopNow/
+### Website link: https://drishtitaitriya.github.io/ShopNow/
 
